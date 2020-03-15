@@ -6,6 +6,10 @@ h1 {
     color: maroon;
 }
 
+h2.destination {
+    font-family: cursive;
+}
+
 .title {
     color: teal;
 }
@@ -20,8 +24,8 @@ h1 {
 
 .cursive {
     font-family: cursive;
-  }
-  
-  .capitalize {
+}
+
+.capitalize {
     text-transform: capitalize;
-  }
+}
