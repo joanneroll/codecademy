@@ -7,7 +7,7 @@ h1 {
 }
 
 h5 {
-    color: rebeccapurple;
+    color: rebeccapurple !important;
 }
 
 h2.destination {
