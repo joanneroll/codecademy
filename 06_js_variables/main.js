@@ -1,3 +1,3 @@
 const myName = "Johanna";
 const myCity = "Würzburg";
-console.log(`My name is ${myName} and my favorite city is ${myCity}.`);
+console.log(`My name is ${myName}. My favorite city is ${myCity}.`);
